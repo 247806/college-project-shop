@@ -8,8 +8,7 @@ Projekt realizowany na studiach w ramach przedmiotu "Aplikacje w językach inter
 *Description*
 Project carried out during studies as part of the subject "Applications in interpreted languages". The aim of the project was to create a system that would allow sellers to manage the store and allow customers to browse products and place orders.
 
-*Wykorzystane technologie*
-*Used technologies*
+*Wykorzystane technologie/ Used technologies*
 - frontend: Vue 3
 - backend: Javascript
 - database: MYSQL
